@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python Backend for Job/Resume Analysis Web App
 
 This project provides a Python backend (Flask) for a job/resume analysis web application. It exposes REST API endpoints for:
@@ -21,3 +22,6 @@ This project provides a Python backend (Flask) for a job/resume analysis web app
 ---
 
 Replace any placeholder values (e.g., MongoDB URI, Google API key) with your actual credentials.
+=======
+# JOBSINLINE-
+>>>>>>> b52e8afa6b54ee1dfe9544e7c4d9b5950e010abf
