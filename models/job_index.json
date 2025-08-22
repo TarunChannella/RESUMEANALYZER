@@ -1,0 +1,690 @@
+[
+  {
+    "role": "Software Engineer",
+    "text": "Software Engineer Java, Python, C++,DSA Spring Boot, Django, Flask"
+  },
+  {
+    "role": "Frontend Developer",
+    "text": "Frontend Developer HTML, CSS, JavaScript React, Angular, Vue.js"
+  },
+  {
+    "role": "Backend Developer",
+    "text": "Backend Developer Python, Java, Node.js Django, Flask, Express.js"
+  },
+  {
+    "role": "Full Stack Developer",
+    "text": "Full Stack Developer JavaScript, Python, Java React, Angular, Node.js, Django"
+  },
+  {
+    "role": "Mobile App Developer",
+    "text": "Mobile App Developer Java, Kotlin, Swift Android Studio, Xcode, Flutter"
+  },
+  {
+    "role": "Android Developer",
+    "text": "Android Developer Java, Kotlin Android SDK, Retrofit, Room"
+  },
+  {
+    "role": "iOS Developer",
+    "text": "iOS Developer Swift, Objective-C Xcode, CocoaPods, SwiftUI"
+  },
+  {
+    "role": "DevOps Engineer",
+    "text": "DevOps Engineer Python, Shell Scripting Docker, Kubernetes, Jenkins"
+  },
+  {
+    "role": "Cloud Engineer",
+    "text": "Cloud Engineer Python, Java AWS, Azure, Google Cloud Platform (GCP)"
+  },
+  {
+    "role": "Data Scientist",
+    "text": "Data Scientist Python, R Pandas, NumPy, Scikit-learn"
+  },
+  {
+    "role": "Machine Learning Engineer",
+    "text": "Machine Learning Engineer Python, R TensorFlow, PyTorch, Keras"
+  },
+  {
+    "role": "Artificial Intelligence Engineer",
+    "text": "Artificial Intelligence Engineer Python, Java TensorFlow, PyTorch, OpenCV"
+  },
+  {
+    "role": "Data Analyst",
+    "text": "Data Analyst Python, SQL Pandas, Tableau, Power BI"
+  },
+  {
+    "role": "Business Analyst",
+    "text": "Business Analyst SQL, Excel Tableau, Power BI, JIRA"
+  },
+  {
+    "role": "Product Manager",
+    "text": "Product Manager SQL, Basic Python JIRA, Trello, Confluence"
+  },
+  {
+    "role": "Project Manager",
+    "text": "Project Manager SQL, Basic Python JIRA, MS Project, Asana"
+  },
+  {
+    "role": "Scrum Master",
+    "text": "Scrum Master Basic SQL JIRA, Confluence, Trello"
+  },
+  {
+    "role": "QA Engineer",
+    "text": "QA Engineer Python, Java Selenium, JUnit, TestNG"
+  },
+  {
+    "role": "Automation Test Engineer",
+    "text": "Automation Test Engineer Python, Java Selenium, Appium, Cucumber"
+  },
+  {
+    "role": "Manual Test Engineer",
+    "text": "Manual Test Engineer Basic SQL JIRA, TestRail, Bugzilla"
+  },
+  {
+    "role": "UI/UX Designer",
+    "text": "UI/UX Designer HTML, CSS, JavaScript Figma, Adobe XD, Sketch"
+  },
+  {
+    "role": "Graphic Designer",
+    "text": "Graphic Designer Basic HTML, CSS Adobe Photoshop, Illustrator, InDesign"
+  },
+  {
+    "role": "Web Designer",
+    "text": "Web Designer HTML, CSS, JavaScript Bootstrap, WordPress, Figma"
+  },
+  {
+    "role": "Technical Writer",
+    "text": "Technical Writer Basic Markdown, XML Confluence, MadCap Flare, GitBook"
+  },
+  {
+    "role": "Database Administrator",
+    "text": "Database Administrator SQL, PL/SQL MySQL, PostgreSQL, Oracle"
+  },
+  {
+    "role": "SQL Developer",
+    "text": "SQL Developer SQL, PL/SQL MySQL, PostgreSQL, SQL Server"
+  },
+  {
+    "role": "Big Data Engineer",
+    "text": "Big Data Engineer Python, Java, Scala Hadoop, Spark, Hive"
+  },
+  {
+    "role": "Hadoop Developer",
+    "text": "Hadoop Developer Java, Scala Hadoop, HDFS, MapReduce"
+  },
+  {
+    "role": "Spark Developer",
+    "text": "Spark Developer Scala, Python Apache Spark, Databricks"
+  },
+  {
+    "role": "Data Engineer",
+    "text": "Data Engineer Python, SQL Apache Kafka, Airflow, Snowflake"
+  },
+  {
+    "role": "ETL Developer",
+    "text": "ETL Developer SQL, Python Informatica, Talend, SSIS"
+  },
+  {
+    "role": "Blockchain Developer",
+    "text": "Blockchain Developer Solidity, JavaScript Ethereum, Hyperledger, Truffle"
+  },
+  {
+    "role": "Cybersecurity Analyst",
+    "text": "Cybersecurity Analyst Python, Bash Wireshark, Metasploit, Nmap"
+  },
+  {
+    "role": "Ethical Hacker",
+    "text": "Ethical Hacker Python, Bash Kali Linux, Burp Suite, Metasploit"
+  },
+  {
+    "role": "Network Engineer",
+    "text": "Network Engineer Python, Bash Cisco IOS, Wireshark, GNS3"
+  },
+  {
+    "role": "System Administrator",
+    "text": "System Administrator Bash, PowerShell Ansible, Puppet, Chef"
+  },
+  {
+    "role": "IT Support Specialist",
+    "text": "IT Support Specialist Basic Scripting (Bash, PowerShell) ServiceNow, Zendesk, JIRA"
+  },
+  {
+    "role": "IT Consultant",
+    "text": "IT Consultant SQL, Basic Python SAP, Oracle, Salesforce"
+  },
+  {
+    "role": "Solutions Architect",
+    "text": "Solutions Architect Java, Python AWS, Azure, Docker"
+  },
+  {
+    "role": "Enterprise Architect",
+    "text": "Enterprise Architect Java, Python TOGAF, ArchiMate, AWS"
+  },
+  {
+    "role": "Software Architect",
+    "text": "Software Architect Java, Python Spring, Django, Kubernetes"
+  },
+  {
+    "role": "Application Support Engineer",
+    "text": "Application Support Engineer SQL, Basic Python ServiceNow, JIRA, Zabbix"
+  },
+  {
+    "role": "Embedded Systems Engineer",
+    "text": "Embedded Systems Engineer C, C++ Arduino, Raspberry Pi, FreeRTOS"
+  },
+  {
+    "role": "Firmware Engineer",
+    "text": "Firmware Engineer C, C++ Embedded C, RTOS, Keil"
+  },
+  {
+    "role": "Game Developer",
+    "text": "Game Developer C#, C++ Unity, Unreal Engine, Godot"
+  },
+  {
+    "role": "Unity Developer",
+    "text": "Unity Developer C# Unity, Blender, Maya"
+  },
+  {
+    "role": "AR/VR Developer",
+    "text": "AR/VR Developer C#, C++ Unity, Unreal Engine, ARKit"
+  },
+  {
+    "role": "Python Developer",
+    "text": "Python Developer Python Django, Flask, Pandas"
+  },
+  {
+    "role": "Java Developer",
+    "text": "Java Developer Java Spring Boot, Hibernate, Maven"
+  },
+  {
+    "role": "C++ Developer",
+    "text": "C++ Developer C++ STL, Boost, Qt"
+  },
+  {
+    "role": "C# Developer",
+    "text": "C# Developer C# .NET, ASP.NET, Entity Framework"
+  },
+  {
+    "role": ".NET Developer",
+    "text": ".NET Developer C# .NET Core, ASP.NET, Entity Framework"
+  },
+  {
+    "role": "PHP Developer",
+    "text": "PHP Developer PHP Laravel, Symfony, CodeIgniter"
+  },
+  {
+    "role": "Ruby on Rails Developer",
+    "text": "Ruby on Rails Developer Ruby Rails, RSpec, Capybara"
+  },
+  {
+    "role": "Node.js Developer",
+    "text": "Node.js Developer JavaScript Express.js, Nest.js, Socket.io"
+  },
+  {
+    "role": "Angular Developer",
+    "text": "Angular Developer TypeScript Angular, RxJS, NgRx"
+  },
+  {
+    "role": "React Developer",
+    "text": "React Developer JavaScript React, Redux, Next.js"
+  },
+  {
+    "role": "Vue.js Developer",
+    "text": "Vue.js Developer JavaScript Vuex, Vuetify, Nuxt.js"
+  },
+  {
+    "role": "Django Developer",
+    "text": "Django Developer Python Django, Django REST Framework, Celery"
+  },
+  {
+    "role": "Flask Developer",
+    "text": "Flask Developer Python Flask, SQLAlchemy, Jinja2"
+  },
+  {
+    "role": "Spring Boot Developer",
+    "text": "Spring Boot Developer Java Spring Boot, Spring Security, Hibernate"
+  },
+  {
+    "role": "Laravel Developer",
+    "text": "Laravel Developer PHP Laravel, Eloquent, Blade"
+  },
+  {
+    "role": "WordPress Developer",
+    "text": "WordPress Developer PHP, JavaScript WordPress, WooCommerce, Elementor"
+  },
+  {
+    "role": "Magento Developer",
+    "text": "Magento Developer PHP, JavaScript Magento, Composer, PHPUnit"
+  },
+  {
+    "role": "Shopify Developer",
+    "text": "Shopify Developer Liquid, JavaScript Shopify, ThemeKit, GraphQL"
+  },
+  {
+    "role": "Salesforce Developer",
+    "text": "Salesforce Developer Apex, JavaScript Salesforce Lightning, Visualforce"
+  },
+  {
+    "role": "SAP Consultant",
+    "text": "SAP Consultant ABAP, SQL SAP ERP, SAP HANA, SAP Fiori"
+  },
+  {
+    "role": "Oracle Developer",
+    "text": "Oracle Developer PL/SQL Oracle DB, Oracle Forms, Oracle Apex"
+  },
+  {
+    "role": "ERP Implementation Specialist",
+    "text": "ERP Implementation Specialist SQL, Basic Python SAP, Oracle ERP, Microsoft Dynamics"
+  },
+  {
+    "role": "CRM Developer",
+    "text": "CRM Developer JavaScript, SQL Salesforce, Microsoft Dynamics, Zoho CRM"
+  },
+  {
+    "role": "BI Developer",
+    "text": "BI Developer SQL, Python Power BI, Tableau, QlikView"
+  },
+  {
+    "role": "Power BI Developer",
+    "text": "Power BI Developer SQL, DAX Power BI, Excel, SQL Server"
+  },
+  {
+    "role": "Tableau Developer",
+    "text": "Tableau Developer SQL Tableau, Alteryx, Excel"
+  },
+  {
+    "role": "QlikView Developer",
+    "text": "QlikView Developer SQL QlikView, Qlik Sense, NPrinting"
+  },
+  {
+    "role": "SAS Developer",
+    "text": "SAS Developer SAS, SQL SAS Studio, SAS Enterprise Guide"
+  },
+  {
+    "role": "R Developer",
+    "text": "R Developer R RStudio, Shiny, Tidyverse"
+  },
+  {
+    "role": "MATLAB Developer",
+    "text": "MATLAB Developer MATLAB Simulink, MATLAB Compiler"
+  },
+  {
+    "role": "API Developer",
+    "text": "API Developer Python, JavaScript Flask, Express.js, Postman"
+  },
+  {
+    "role": "Microservices Developer",
+    "text": "Microservices Developer Java, Python Spring Boot, Flask, Docker"
+  },
+  {
+    "role": "Kubernetes Administrator",
+    "text": "Kubernetes Administrator Bash, YAML Kubernetes, Helm, Prometheus"
+  },
+  {
+    "role": "Docker Specialist",
+    "text": "Docker Specialist Bash, YAML Docker, Docker Compose, Kubernetes"
+  },
+  {
+    "role": "Site Reliability Engineer (SRE)",
+    "text": "Site Reliability Engineer (SRE) Python, Bash Prometheus, Grafana, Terraform"
+  },
+  {
+    "role": "Release Manager",
+    "text": "Release Manager Basic Scripting (Bash, Python) Jenkins, Git, Ansible"
+  },
+  {
+    "role": "Configuration Manager",
+    "text": "Configuration Manager Basic Scripting (Bash, Python) Ansible, Puppet, Chef"
+  },
+  {
+    "role": "Change Manager",
+    "text": "Change Manager Basic Scripting (Bash, Python) ServiceNow, JIRA, Remedy"
+  },
+  {
+    "role": "Incident Manager",
+    "text": "Incident Manager Basic Scripting (Bash, Python) ServiceNow, JIRA, Zendesk"
+  },
+  {
+    "role": "Problem Manager",
+    "text": "Problem Manager Basic Scripting (Bash, Python) ServiceNow, JIRA, Remedy"
+  },
+  {
+    "role": "IT Auditor",
+    "text": "IT Auditor SQL, Basic Python ACL, IDEA, SAP GRC"
+  },
+  {
+    "role": "Compliance Officer",
+    "text": "Compliance Officer SQL, Basic Python SAP GRC, Archer, ServiceNow"
+  },
+  {
+    "role": "Risk Manager",
+    "text": "Risk Manager SQL, Basic Python SAP GRC, Archer, ServiceNow"
+  },
+  {
+    "role": "Digital Marketing Specialist",
+    "text": "Digital Marketing Specialist Basic HTML, CSS Google Analytics, SEMrush, HubSpot"
+  },
+  {
+    "role": "SEO Specialist",
+    "text": "SEO Specialist Basic HTML, CSS Google Search Console, SEMrush, Ahrefs"
+  },
+  {
+    "role": "Content Writer",
+    "text": "Content Writer Basic Markdown WordPress, Grammarly, Hemingway"
+  },
+  {
+    "role": "Social Media Manager",
+    "text": "Social Media Manager Basic HTML, CSS Hootsuite, Buffer, Canva"
+  },
+  {
+    "role": "Growth Hacker",
+    "text": "Growth Hacker Basic Python, SQL Google Analytics, Mixpanel, Optimizely"
+  },
+  {
+    "role": "Product Owner",
+    "text": "Product Owner Basic SQL JIRA, Trello, Confluence"
+  },
+  {
+    "role": "Agile Coach",
+    "text": "Agile Coach Basic SQL JIRA, Confluence, Trello"
+  },
+  {
+    "role": "Business Development Manager",
+    "text": "Business Development Manager Basic SQL Salesforce, HubSpot, Zoho CRM"
+  },
+  {
+    "role": "Sales Engineer",
+    "text": "Sales Engineer Basic SQL Salesforce, HubSpot, Zoho CRM"
+  },
+  {
+    "role": "Pre-Sales Consultant",
+    "text": "Pre-Sales Consultant Basic SQL Salesforce, HubSpot, Zoho CRM"
+  },
+  {
+    "role": "Customer Success Manager",
+    "text": "Customer Success Manager Basic SQL Salesforce, Zendesk, HubSpot"
+  },
+  {
+    "role": "Technical Support Engineer",
+    "text": "Technical Support Engineer Basic Scripting (Bash, Python) ServiceNow, Zendesk, JIRA"
+  },
+  {
+    "role": "Hardware Engineer",
+    "text": "Hardware Engineer C, Verilog Arduino, Raspberry Pi, FPGA"
+  },
+  {
+    "role": "IoT Developer",
+    "text": "IoT Developer C, Python Arduino, Raspberry Pi, MQTT"
+  },
+  {
+    "role": "Robotics Engineer",
+    "text": "Robotics Engineer C++, Python ROS, OpenCV, Gazebo"
+  },
+  {
+    "role": "Computer Vision Engineer",
+    "text": "Computer Vision Engineer Python, C++ OpenCV, TensorFlow, PyTorch"
+  },
+  {
+    "role": "NLP Engineer",
+    "text": "NLP Engineer Python NLTK, SpaCy, Transformers"
+  },
+  {
+    "role": "Chatbot Developer",
+    "text": "Chatbot Developer Python, JavaScript Dialogflow, Rasa, Microsoft Bot Framework"
+  },
+  {
+    "role": "Voice Assistant Developer",
+    "text": "Voice Assistant Developer Python, JavaScript Alexa Skills Kit, Google Actions, Dialogflow"
+  },
+  {
+    "role": "Cloud Architect",
+    "text": "Cloud Architect Python, Java AWS, Azure, Google Cloud Platform (GCP)"
+  },
+  {
+    "role": "AWS Solutions Architect",
+    "text": "AWS Solutions Architect Python, Java AWS (EC2, S3, Lambda)"
+  },
+  {
+    "role": "Azure Developer",
+    "text": "Azure Developer Python, C# Azure (Functions, App Service, Cosmos DB)"
+  },
+  {
+    "role": "Google Cloud Engineer",
+    "text": "Google Cloud Engineer Python, Java GCP (Compute Engine, BigQuery, Cloud Functions)"
+  },
+  {
+    "role": "AI Research Scientist",
+    "text": "AI Research Scientist Python, R TensorFlow, PyTorch, Keras"
+  },
+  {
+    "role": "Quantum Computing Engineer",
+    "text": "Quantum Computing Engineer Python, Qiskit IBM Qiskit, Cirq, Q#"
+  },
+  {
+    "role": "Bioinformatics Specialist",
+    "text": "Bioinformatics Specialist Python, R Biopython, BLAST, Galaxy"
+  },
+  {
+    "role": "Fintech Developer",
+    "text": "Fintech Developer Python, Java Blockchain, TensorFlow, Pandas"
+  },
+  {
+    "role": "Edtech Developer",
+    "text": "Edtech Developer Python, JavaScript Django, React, Firebase"
+  },
+  {
+    "role": "Healthtech Developer",
+    "text": "Healthtech Developer Python, Java TensorFlow, PyTorch, FHIR"
+  },
+  {
+    "role": "E-commerce Specialist",
+    "text": "E-commerce Specialist PHP, JavaScript Magento, Shopify, WooCommerce"
+  },
+  {
+    "role": "Supply Chain Analyst",
+    "text": "Supply Chain Analyst SQL, Python SAP, Oracle SCM, Excel"
+  },
+  {
+    "role": "Logistics Analyst",
+    "text": "Logistics Analyst SQL, Python SAP, Oracle SCM, Excel"
+  },
+  {
+    "role": "GIS Developer",
+    "text": "GIS Developer Python, JavaScript ArcGIS, QGIS, Leaflet"
+  },
+  {
+    "role": "3D Modeler",
+    "text": "3D Modeler Python, C++ Blender, Maya, 3ds Max"
+  },
+  {
+    "role": "Animator",
+    "text": "Animator Python, C++ Blender, Maya, After Effects"
+  },
+  {
+    "role": "Video Editor",
+    "text": "Video Editor Basic Scripting (Python) Adobe Premiere, Final Cut Pro, DaVinci Resolve"
+  },
+  {
+    "role": "Audio Engineer",
+    "text": "Audio Engineer Basic Scripting (Python) Pro Tools, Audacity, Ableton Live"
+  },
+  {
+    "role": "Game Tester",
+    "text": "Game Tester Basic Scripting (Python) JIRA, TestRail, Bugzilla"
+  },
+  {
+    "role": "Localization Specialist",
+    "text": "Localization Specialist Basic Scripting (Python) SDL Trados, MemoQ, Crowdin"
+  },
+  {
+    "role": "Translation Specialist",
+    "text": "Translation Specialist Basic Scripting (Python) SDL Trados, MemoQ, Crowdin"
+  },
+  {
+    "role": "Legal Tech Consultant",
+    "text": "Legal Tech Consultant SQL, Basic Python Clio, MyCase, PracticePanther"
+  },
+  {
+    "role": "HR Tech Specialist",
+    "text": "HR Tech Specialist SQL, Basic Python Workday, SAP SuccessFactors, BambooHR"
+  },
+  {
+    "role": "Recruitment Consultant",
+    "text": "Recruitment Consultant SQL, Basic Python LinkedIn Recruiter, Greenhouse, Workable"
+  },
+  {
+    "role": "Learning & Development Specialist",
+    "text": "Learning & Development Specialist SQL, Basic Python Moodle, TalentLMS, Docebo"
+  },
+  {
+    "role": "Corporate Trainer",
+    "text": "Corporate Trainer SQL, Basic Python Moodle, TalentLMS, Docebo"
+  },
+  {
+    "role": "IT Trainer",
+    "text": "IT Trainer SQL, Basic Python Moodle, TalentLMS, Docebo"
+  },
+  {
+    "role": "Coding Instructor",
+    "text": "Coding Instructor Python, JavaScript Jupyter Notebook, Codecademy, Replit"
+  },
+  {
+    "role": "Freelance Developer",
+    "text": "Freelance Developer Python, JavaScript Django, React, Node.js"
+  },
+  {
+    "role": "Startup Founder",
+    "text": "Startup Founder Python, JavaScript Django, React, Node.js"
+  },
+  {
+    "role": "Tech Entrepreneur",
+    "text": "Tech Entrepreneur Python, JavaScript Django, React, Node.js"
+  },
+  {
+    "role": "Venture Capitalist",
+    "text": "Venture Capitalist SQL, Basic Python Excel, Tableau, PitchBook"
+  },
+  {
+    "role": "Angel Investor",
+    "text": "Angel Investor SQL, Basic Python Excel, Tableau, PitchBook"
+  },
+  {
+    "role": "Tech Journalist",
+    "text": "Tech Journalist Basic Markdown WordPress, Medium, Ghost"
+  },
+  {
+    "role": "Tech Blogger",
+    "text": "Tech Blogger Basic Markdown WordPress, Medium, Ghost"
+  },
+  {
+    "role": "Open Source Contributor",
+    "text": "Open Source Contributor Python, JavaScript Git, GitHub, GitLab"
+  },
+  {
+    "role": "Community Manager",
+    "text": "Community Manager Basic Markdown Discord, Slack, Discourse"
+  },
+  {
+    "role": "Event Manager",
+    "text": "Event Manager Basic Markdown Eventbrite, Meetup, Cvent"
+  },
+  {
+    "role": "Tech Evangelist",
+    "text": "Tech Evangelist Python, JavaScript Django, React, Node.js"
+  },
+  {
+    "role": "Innovation Manager",
+    "text": "Innovation Manager SQL, Basic Python JIRA, Trello, Confluence"
+  },
+  {
+    "role": "RPA Developer",
+    "text": "RPA Developer Python, C# UiPath, Blue Prism, Automation Anywhere"
+  },
+  {
+    "role": "Low-Code/No-Code Developer",
+    "text": "Low-Code/No-Code Developer Basic Scripting (Python) Bubble, Airtable, Zapier"
+  },
+  {
+    "role": "Chatbot Trainer",
+    "text": "Chatbot Trainer Python, JavaScript Dialogflow, Rasa, Microsoft Bot Framework"
+  },
+  {
+    "role": "AI Ethicist",
+    "text": "AI Ethicist Python, R TensorFlow, PyTorch, Keras"
+  },
+  {
+    "role": "Data Privacy Officer",
+    "text": "Data Privacy Officer SQL, Basic Python OneTrust, TrustArc, BigID"
+  },
+  {
+    "role": "Cloud Security Engineer",
+    "text": "Cloud Security Engineer Python, Bash AWS IAM, Azure Security Center, GCP Security"
+  },
+  {
+    "role": "Penetration Tester",
+    "text": "Penetration Tester Python, Bash Kali Linux, Metasploit, Burp Suite"
+  },
+  {
+    "role": "Digital Forensics Analyst",
+    "text": "Digital Forensics Analyst Python, Bash EnCase, FTK, Autopsy"
+  },
+  {
+    "role": "Incident Response Specialist",
+    "text": "Incident Response Specialist Python, Bash Splunk, ELK Stack, Wireshark"
+  },
+  {
+    "role": "Threat Intelligence Analyst",
+    "text": "Threat Intelligence Analyst Python, Bash MISP, ThreatConnect, AlienVault"
+  },
+  {
+    "role": "Malware Analyst",
+    "text": "Malware Analyst Python, C IDA Pro, Ghidra, Cuckoo Sandbox"
+  },
+  {
+    "role": "Cryptography Specialist",
+    "text": "Cryptography Specialist Python, C OpenSSL, Cryptography.io, PyCryptodome"
+  },
+  {
+    "role": "Compliance Analyst",
+    "text": "Compliance Analyst SQL, Basic Python OneTrust, TrustArc, BigID"
+  },
+  {
+    "role": "IT Procurement Specialist",
+    "text": "IT Procurement Specialist SQL, Basic Python SAP Ariba, Coupa, Oracle Procurement"
+  },
+  {
+    "role": "Vendor Manager",
+    "text": "Vendor Manager SQL, Basic Python SAP Ariba, Coupa, Oracle Procurement"
+  },
+  {
+    "role": "IT Finance Analyst",
+    "text": "IT Finance Analyst SQL, Basic Python SAP FI, Oracle Financials, Excel"
+  },
+  {
+    "role": "IT Strategy Consultant",
+    "text": "IT Strategy Consultant SQL, Basic Python SAP, Oracle, Microsoft Dynamics"
+  },
+  {
+    "role": "SDE 2",
+    "text": "SDE 2 [Proficiency in at least one object-oriented programming language (e.g., Java, C++, Python, C#), Data structures and algorithms, Software design principles (SOLID, design patterns), Version control (Git), Testing methodologies (unit testing, integration testing), Debugging and troubleshooting, Databases (SQL, NoSQL), Problem-solving, Communication skills (written and verbal)] [This will vary greatly depending on the company and specific role, but common examples include: Spring (Java), .NET (C#), React, Angular, or Vue.js (JavaScript), Node.js (JavaScript), TensorFlow or PyTorch (for Machine Learning roles), Specific cloud platforms (AWS, Azure, GCP)]"
+  },
+  {
+    "role": "HR",
+    "text": "HR [Spreadsheet software (e.g., Microsoft Excel, Google Sheets), Database management (basic SQL knowledge helpful), Data analysis (basic statistical skills beneficial), Word processing (e.g., Microsoft Word, Google Docs), Presentation software (e.g., Microsoft PowerPoint, Google Slides), Email and calendar management] [No specific programming frameworks are typically required for an HR role.  The skills listed above are sufficient for most HR tasks.  While some advanced HR analytics roles might utilize data science frameworks like Python (with libraries like Pandas, NumPy, Scikit-learn) or R, this is not a general requirement for HR professionals.]"
+  },
+  {
+    "role": "doctor",
+    "text": "doctor None None"
+  },
+  {
+    "role": "software engineer",
+    "text": "software engineer Programming languages (e.g., Java, Python, C++, JavaScript, C#), Data structures and algorithms, Object-Oriented Programming (OOP), Databases (SQL, NoSQL), Version control (Git), Testing methodologies (unit testing, integration testing), Debugging, Software design principles (e.g., SOLID), Problem-solving, Communication skills This heavily depends on the specific software engineering role (web development, mobile development, data science, etc.).  Examples include:  Spring (Java), React, Angular, Vue.js (JavaScript), .NET (C#), Django, Flask (Python), TensorFlow, PyTorch (machine learning), Node.js (JavaScript), Android SDK (Android development), iOS SDK (iOS development).  There are many more, and the relevant ones will vary widely."
+  },
+  {
+    "role": "java teacher",
+    "text": "java teacher Java, Object-Oriented Programming (OOP), Data Structures and Algorithms, SQL,  Testing frameworks (JUnit, Mockito), Git,  Software design principles, Debugging, Problem-solving Spring (basic understanding is helpful), Hibernate (basic understanding is helpful),  Servlet, JSP (optional, depending on curriculum)"
+  },
+  {
+    "role": "data minning engineer",
+    "text": "data minning engineer Python, SQL, R, Data Wrangling, Statistical Analysis, Machine Learning, Data Visualization, Algorithm Design, Big Data Technologies (Hadoop, Spark) Pandas, Scikit-learn, TensorFlow, PyTorch, Spark MLlib"
+  }
+]

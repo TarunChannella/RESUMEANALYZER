@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JOBSINLINE</title>
+    <link rel="stylesheet" href="/static/sign_up_styles.css">
+</head>
+<body>
+    <div class="main-container">
+        <header>
+            <nav class="main-nav">
+                <a href="#home" class="nav-link active" data-section="home">Home</a>
+                <a href="#analyze" class="nav-link" data-section="analyze">Analyze Resume</a>
+                <a href="#related-jobs" class="nav-link" data-section="related-jobs">Related Jobs</a>
+                <a href="#chatbot" class="nav-link" data-section="chatbot">Chatbot</a>
+            </nav>
+        </header>
+
+        <main>
+            <section id="home-section" class="content-section active">
+                <h1 id="welcome-message">Welcome to JOBSINLINE</h1>
+                <div class="info-box">
+                    <p>Get instant feedback on your resume and interact with our AI career assistant.</p>
+                    <p>Navigate using the links above to get started.</p>
+                </div>
+            </section>
+
+            <section id="analyze-section" class="content-section hidden">
+                <div class="resume-section">
+                    <h2>Resume Analyzer</h2>
+                    <form id="resumeForm" enctype="multipart/form-data">
+                        <label for="jobRole">Job Role:</label>
+                        <input type="text" id="jobRole" name="jobRole" required>
+                        <label for="resume">Upload Resume (PDF):</label>
+                        <input type="file" id="resume" name="resume" accept="application/pdf" required>
+                        <button type="submit" class="btn">Analyze Resume</button>
+                    </form>
+                    <div id="resultContent"></div>
+                </div>
+            </section>
+
+            <section id="related-jobs-section" class="content-section hidden">
+                <div class="resume-section">
+                    <h2>Find Related Jobs</h2>
+                    <form id="relatedJobsForm" enctype="multipart/form-data">
+                        <label for="relatedResume">Upload Resume (PDF):</label>
+                        <input type="file" id="relatedResume" name="relatedResume" accept="application/pdf" required>
+                        <button type="submit" class="btn">Find Jobs</button>
+                    </form>
+                    <div id="relatedJobsContent"></div>
+                </div>
+            </section>
+
+            <section id="chatbot-section" class="content-section hidden">
+                <div class="chatbot-section">
+                    <h2>Chat with JOBSINLINE</h2>
+                    <div id="chatbotContainer">
+                        <div id="chatMessages" class="chat-messages"></div>
+                        <div class="chat-input-row">
+                            <input type="text" id="userInput" placeholder="Type your message...">
+                            <button id="sendButton" class="btn">Send</button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+    <script src="/static/main.js"></script>
+</body>
+</html>
