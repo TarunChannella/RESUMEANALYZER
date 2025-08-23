@@ -91,10 +91,10 @@ The system workflow is as follows:
 
 ## 👥 Contributors
 
-- Ekshvak Sai Malladi
 - Tarun Channella
 - Phaneendra Melapu
 - Ranjit Kommasasni
+- Ekshvak Sai Malladi
 
 ## 📄 License
 
