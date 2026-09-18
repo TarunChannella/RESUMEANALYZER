@@ -45,8 +45,8 @@ client = MongoClient(MONGO_URI)
 db = client['jobsinline']
 users_collection = db['users']
 
-# ---------------- Gemini API Key (Hardcoded) ----------------
-GOOGLE_API_KEY = "REDACTED_GOOGLE_API_KEY"
+# ---------------- Gemini API Key (from environment) ----------------
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY", "")
 GOOGLE_API_URL = (
     f'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={GOOGLE_API_KEY}'
 )
